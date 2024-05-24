@@ -1,0 +1,52 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<script src="~/JavaScript/Home/Home.js"></script>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+
+    <span id="testSpan">This is a MSG</span>
+    <Button class="btn btn-primary form-control-sm" id="btnSave">
+        <em class="fa fa-save mr-1"></em>
+        <span langKey="ok"> บันทึก</span>
+    </Button>
+    <Button class="btn btn-primary form-control-sm" id="btnDisplay">
+        <span langKey="ok"> Show popup</span>
+    </Button>
+    
+</div>
+
+
+@section Scripts {
+    @* <script>
+        $.ajax({
+            type: "GET",
+            url: "@Url.Action("GetNames")",
+            dataType: "json",
+            success: function (result) {
+                console.log(result);
+            },
+            error: function (req, status, error){
+                console.log(status);
+            }
+        });
+
+        $.ajax({
+            type: "POST",
+            url: "@Url.Action("PostName")",
+            dataType: "json",
+            data: {name: "Victor"},
+            success: function (result) {
+                console.log(result);
+            },
+            error: function (req, status, error) {
+                console.log(status);
+            }
+        });
+
+    </script> *@
+}
