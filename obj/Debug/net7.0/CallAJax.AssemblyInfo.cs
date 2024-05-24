@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CallAJax")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28233b3e16fd9d332b117b1e345d80f7988a5c13")]
 [assembly: System.Reflection.AssemblyProductAttribute("CallAJax")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CallAJax")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
