@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\Workspace\\vs\\CallAJax\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEBB8017-F798-4F50-BF0C-4CF3675A7BEF}|CallAJax.csproj|d:\\workspace\\vs\\callajax\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEBB8017-F798-4F50-BF0C-4CF3675A7BEF}|CallAJax.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEBB8017-F798-4F50-BF0C-4CF3675A7BEF}|CallAJax.csproj|d:\\workspace\\vs\\callajax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEBB8017-F798-4F50-BF0C-4CF3675A7BEF}|CallAJax.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DEBB8017-F798-4F50-BF0C-4CF3675A7BEF}|CallAJax.csproj|d:\\workspace\\vs\\callajax\\javascript\\home\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{DEBB8017-F798-4F50-BF0C-4CF3675A7BEF}|CallAJax.csproj|solutionrelative:javascript\\home\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBB8017-F798-4F50-BF0C-4CF3675A7BEF}|CallAJax.csproj|d:\\workspace\\vs\\callajax\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEBB8017-F798-4F50-BF0C-4CF3675A7BEF}|CallAJax.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DEBB8017-F798-4F50-BF0C-4CF3675A7BEF}|CallAJax.csproj|d:\\workspace\\vs\\callajax\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DEBB8017-F798-4F50-BF0C-4CF3675A7BEF}|CallAJax.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEBB8017-F798-4F50-BF0C-4CF3675A7BEF}|CallAJax.csproj|d:\\workspace\\vs\\callajax\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEBB8017-F798-4F50-BF0C-4CF3675A7BEF}|CallAJax.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DEBB8017-F798-4F50-BF0C-4CF3675A7BEF}|CallAJax.csproj|d:\\workspace\\vs\\callajax\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEBB8017-F798-4F50-BF0C-4CF3675A7BEF}|CallAJax.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBB8017-F798-4F50-BF0C-4CF3675A7BEF}|CallAJax.csproj|d:\\workspace\\vs\\callajax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEBB8017-F798-4F50-BF0C-4CF3675A7BEF}|CallAJax.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DEBB8017-F798-4F50-BF0C-4CF3675A7BEF}|CallAJax.csproj|d:\\workspace\\vs\\callajax\\wwwroot\\js\\display.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Workspace\\vs\\CallAJax\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -51,12 +51,11 @@
               "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T10:55:11.452Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Workspace\\vs\\CallAJax\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -65,11 +64,12 @@
               "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-20T10:58:19.92Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Workspace\\vs\\CallAJax\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -78,17 +78,18 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-20T11:00:19.34Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Home.js",
               "DocumentMoniker": "D:\\Workspace\\vs\\CallAJax\\JavaScript\\Home\\Home.js",
               "RelativeDocumentMoniker": "JavaScript\\Home\\Home.js",
               "ToolTip": "D:\\Workspace\\vs\\CallAJax\\JavaScript\\Home\\Home.js",
               "RelativeToolTip": "JavaScript\\Home\\Home.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-04-20T11:06:43.495Z",
               "IsPinned": true,
@@ -96,13 +97,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Workspace\\vs\\CallAJax\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "D:\\Workspace\\vs\\CallAJax\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwD4AAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T04:54:05.39Z",
               "IsPinned": true,

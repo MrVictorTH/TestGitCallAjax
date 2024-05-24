@@ -12,6 +12,7 @@ let testName = 'Test By Victor'
 
 $(document).ready(function () {
     initEventButton();
+    console.log('ABC');
 });
 
 //#region init
